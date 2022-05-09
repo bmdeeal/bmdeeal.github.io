@@ -1,0 +1,54 @@
+
+.content {
+	background-color: #eee;	
+	margin: auto;
+	width: 60%;
+	min-width: 512px;
+	padding: 8px;
+	padding-left: 12px;
+	border-radius: 16px;
+	box-shadow: 6px 6px 8px #8c8c8c;
+}
+
+
+h1 {
+	font-size: 24pt;
+	margin-bottom: 0px;
+	margin-top: 8px;
+	font-weight: normal;
+	border: 2px solid black;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	border-left: 0;
+	border-right: 0;
+}
+
+.header {
+	font-size: 36pt;
+}
+
+hr {
+	border: 1px solid black;
+}
+
+.item {
+	
+	
+}
+
+a:link, a:visited {
+	color: #33b;
+}
+
+a:hover {
+	color: #ccc;
+	background-color: #222;
+}
+
+a:active {
+	color: #fff;
+	background-color: #000;
+}
+
+.navbar {
+}
